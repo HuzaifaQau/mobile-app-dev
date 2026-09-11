@@ -1,4 +1,3 @@
-# CS 442 — Mobile Application Development
 
 ## Week 1 Lab Task: Enhance the Counter App
 
@@ -23,7 +22,7 @@ The app includes:
 
 The screenshot below shows the counter above the personal threshold and at least one reset performed.
 
-![Running App](screenshot.png)
+![Running App](Screenshot.png)
 
 ## Personal Parameters
 
